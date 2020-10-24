@@ -1,0 +1,10 @@
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\bin\Debug\CavalierID.exe.config
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\bin\Debug\CavalierID.exe
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\bin\Debug\CavalierID.pdb
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\obj\Debug\CavalierID.csprojAssemblyReference.cache
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\obj\Debug\CavalierID.CavalierID.resources
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\obj\Debug\CavalierID.Properties.Resources.resources
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\obj\Debug\CavalierID.csproj.GenerateResource.cache
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\obj\Debug\CavalierID.csproj.CoreCompileInputs.cache
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\obj\Debug\CavalierID.exe
+C:\Users\ngaleu alain\Documents\Exos-C#Net\CavalierID\CavalierID\obj\Debug\CavalierID.pdb
